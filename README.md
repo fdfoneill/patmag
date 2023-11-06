@@ -17,3 +17,10 @@ b.visualize("/foo/bar/smiting_fire.png") # create pretty visualization of patter
 
 b.contains(p) # True
 ```
+
+GUI still under construction.
+
+## Required Packages
+
+-pillow
+-tkinter

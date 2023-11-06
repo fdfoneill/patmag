@@ -22,5 +22,5 @@ GUI still under construction.
 
 ## Required Packages
 
--pillow
--tkinter
+- pillow
+- tkinter
